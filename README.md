@@ -1,0 +1,1 @@
+RVE's with fiber volume fraction of 0.6 were modeled in Abaqus CAE ver.2023 to determine the Young's moduli in different directions fo the RVE. Appropriate boundary conditions and formulae were applied to obtain the Young;s moduli.
